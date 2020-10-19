@@ -1,0 +1,37 @@
+body{
+    background-color:darkgrey  ;
+}
+
+h1{
+    background-color: #2289b2;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+} 
+
+h2{
+    background-color: #c0670d;
+} 
+
+figure{
+    float: right;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+ol{
+    background-color: #2289b2;
+}
+
+ol li{
+    color: antiquewhite;
+}
+
+.borderH{
+    border-radius: 30px;
+    border: thick double #4e5d63;
+
+}
